@@ -189,6 +189,14 @@
 
     <repositories>
         <repository>
+            <id>Choerodon Release</id>
+            <name>Choerodon Release Repository</name>
+            <url>https://nexus.choerodon.com.cn/repository/choerodon-release</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+        </repository>
+        <repository>
             <id>alfresco</id>
             <name>Activiti Releases</name>
             <url>https://artifacts.alfresco.com/nexus/content/repositories/activiti-releases/</url>
